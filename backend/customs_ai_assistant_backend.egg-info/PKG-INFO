@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: customs-ai-assistant-backend
+Version: 0.1.0
+Summary: Flask API for Customs HS Code Classification Assistant using OpenAI
+Author-email: Your Name <your.email@example.com>
+License: MIT
+Keywords: flask,openai,ai,customs
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown

@@ -1,0 +1,6 @@
+# Core dependencies
+flask
+python-dotenv
+openai
+pydantic
+echo "flask-cors"
